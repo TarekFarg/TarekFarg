@@ -9,11 +9,17 @@
 <hr>
 
 <!-- About Me -->
-## About Me:
-- 🏫 I am a `student` at Faculty of Computers & AI at Cairo University.
-- 💻 I am a `Junior Software Engineer`.
-- 👨‍💻 I love challenges problem solving. 
+## About Me
+- 🎓 I'm a `student` at the Faculty of Computers & Artificial Intelligence, Cairo University.
+- 👨‍💻 I'm passionate about `backend` development and `competitive programming`.
+- 🧠 I enjoy tackling algorithmic challenges and learning new technologies. 
 <br>
+
+<!-- Achievements -->
+## 🏆 Achievements
+- 🥇 `ECPC Finalist` (Egyptian Collegiate Programming Contest)
+- 🥈 Solved `1400+` problems on various platforms (Codeforces, LeetCode, etc.)
+- 👨‍🏫 Earned the `SQL 50` badge on LeetCode
 
 <!-- Contact Me -->
 ## Contact Me
