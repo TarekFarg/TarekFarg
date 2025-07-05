@@ -37,6 +37,5 @@
 	<a href="https://leetcode.com/u/TarekFarg/" target="_blank">
 		<img src="./images/leetcode.png" alt="Leetcode"/>
 	</a>
-    	&emsp;
 </p>
 <br>
