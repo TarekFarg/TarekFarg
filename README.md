@@ -18,10 +18,10 @@
 <!-- Contact Me -->
 ## Contact Me
 <p align="center">
-    <a href="https://codeforces.com/profile/TarekFarag" target="_blank">
-		<img src="./images/codeforces.png" alt="Codeforces"/>
+	<a href="https://www.linkedin.com/in/tarek-mohamed-325373267/" target="_blank">
+		<img src="./images/linkedin.png" alt="Linkedin"/>
 	</a>
-    &emsp;
+	&emsp;
 	<a href="mailto:tarekfarg01@gmail.com" target="_blank">
 		<img src="./images/gmail.png" alt="Gmail"/>
 	</a>
@@ -30,10 +30,10 @@
 		<img src="./images/github.png" alt="Github"/>
 	</a>
 	&emsp;
-	<a href="https://www.linkedin.com/in/tarek-mohamed-325373267/" target="_blank">
-		<img src="./images/linkedin.png" alt="Linkedin"/>
+ 	<a href="https://codeforces.com/profile/TarekFarag" target="_blank">
+		<img src="./images/codeforces.png" alt="Codeforces"/>
 	</a>
-	&emsp;
-	&emsp;
+    	&emsp;
+	
 </p>
 <br>
