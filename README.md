@@ -12,31 +12,29 @@
 ## About Me
 - 🎓 I'm a `student` at the Faculty of Computers & Artificial Intelligence, Cairo University.
 - 👨‍💻 I'm passionate about `backend` development and `competitive programming`.
-- 🧠 I enjoy tackling algorithmic challenges and learning new technologies. 
+- 🧠 I enjoy tackling algorithmic challenges and learning new technologies.
+- 🔭 I'm currently open for a new `Job opportunity`, this is <a href="https://drive.google.com/file/d/1BcC3ubfaIMnc_B5s9-fxlMjeuAcGzmdi/view?usp=sharing">MY RESUME<a>.
 <br>
 
 ## ⚡ Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cs,cpp,java,dotnet,css,html" alt="Programming Languages"/>
+  </a>
 </p>
 
+## ⚡ Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,visualstudio" alt="Programming Languages"/>
+  </a>
+</p>
 
 <!-- Achievements -->
 ## 🏆 Achievements
 - 🥇 `ECPC Finalist` (Egyptian Collegiate Programming Contest)
 - 🥈 Solved `1500+` problems on various platforms (Codeforces, LeetCode, etc.)
 - 👨‍🏫 Earned the `SQL 50` badge on LeetCode
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarekFarg&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
 
 <!-- Contact Me -->
 ## Contact Me
@@ -61,4 +59,4 @@
 		<img src="./images/leetcode.png" alt="Leetcode"/>
 	</a>
 </p>
-<br>
+
