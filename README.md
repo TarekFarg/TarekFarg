@@ -33,6 +33,13 @@
 - 🥈 Solved `1400+` problems on various platforms (Codeforces, LeetCode, etc.)
 - 👨‍🏫 Earned the `SQL 50` badge on LeetCode
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TarekFarg&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarekFarg&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+
 <!-- Contact Me -->
 ## Contact Me
 <p align="center">
